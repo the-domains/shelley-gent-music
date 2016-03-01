@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shelley Gent Music]]></title>
         <description><![CDATA[Shelley Gent Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shelley-gent-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 01:50:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 01:55:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shelley-gent-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome from Shelley Gent]]></title>
-            <description><![CDATA[<article><h1>Welcome from Shelley Gent</h1><p>Hello and thanks for visiting my new website!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6af2eb0a59488d93cda8b8590444975a75d4bc1.jpg"></article>]]></description>
-            <link>undefinedwelcome-from-shelley-gent/index.html</link>
+            <description><![CDATA[<article><h1>Welcome from Shelley Gent</h1><p>Hello and thanks for visiting my new website!Contained within these virtual pages is a whole host of information about me and my music - from my string arranging work, to cello performances, children's tuition and music story books. I hope you find the content interesting, informative and even a little fun. Please do get in touch if you'd have any questions or suggestions, or would like to make a booking. I'd love to hear from you!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6af2eb0a59488d93cda8b8590444975a75d4bc1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shelley-gent-music/welcome-from-shelley-gent/index.html</link>
             <guid isPermaLink="false">1fbb1c9a-74d0-4f91-91a8-cc80f2bdf513</guid>
-            <pubDate>Tue, 01 Mar 2016 01:49:58 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 01:55:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
