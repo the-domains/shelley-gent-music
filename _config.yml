@@ -1,0 +1,28 @@
+name: Shelley Gent Music
+favicon: null
+layout_spectrum: 0.49272432760335505
+typography_spectrum: 0.663838745560497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3690911934245378
+  lightness: 0.3764396596234292
+  saturation: 0.6873522559180856
+  rhythmicContrast: 0.004223308991640806
+purpose: []
