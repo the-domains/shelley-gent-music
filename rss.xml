@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shelley Gent Music]]></title>
+        <description><![CDATA[Shelley Gent Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 01:50:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome from Shelley Gent]]></title>
+            <description><![CDATA[<article><h1>Welcome from Shelley Gent</h1><p>Hello and thanks for visiting my new website!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6af2eb0a59488d93cda8b8590444975a75d4bc1.jpg"></article>]]></description>
+            <link>undefinedwelcome-from-shelley-gent/index.html</link>
+            <guid isPermaLink="false">1fbb1c9a-74d0-4f91-91a8-cc80f2bdf513</guid>
+            <pubDate>Tue, 01 Mar 2016 01:49:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
